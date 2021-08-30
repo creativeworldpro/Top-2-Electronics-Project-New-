@@ -31,10 +31,15 @@ Circuit Connection  -
 
 
 First we connect both transistor emitter leg. Then we connect capacitor with the circuit. Connect one capacitor negative leg with Tip41c transistor Base leg and capacitor positive leg with BD139 transistor Collector leg.
+
 Connect another capacitor positive leg with Tip41C transistor Collector leg and capacitor negative leg with BD139 transistor Base leg.
 Now we connect 56 KΩ resistor with the circuit. Connect this 2 resistor with both transistor Base leg and connect both resistors empty leg.
 
+
 There are two components to connect with the circuit. Now we connect LED light with the circuit. Connect red color LED positive leg with resistor and negative leg with Collector leg of TIP41C transistor. 
+
 Now connect blue color LED positive leg with resistor and negative leg with collector of BD 139 transistor. 
 It is the time to connect power source with the circuit. We connect DC-12v positive cable with both LED positive leg and connect DC-12v negative cable with both transistor Emitter leg.
+
+
 Our circuit is ready for use. Just plug-in power and enjoy awesome effect of LED light.
